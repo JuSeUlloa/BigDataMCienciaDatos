@@ -1,13 +1,15 @@
 # Actividad de Reconocimiento del Entorno: Databricks
-![Interfaz de Databricks](image.png)
+![Interfaz de Databricks](img/image.png)
 
 ## Paso 1. Ingreso y reconocimiento del entorno
 Databricks es una plataforma de análisis de datos en la nube que proporciona un entorno colaborativo para el procesamiento y análisis de grandes volúmenes de datos. Fue fundada por los creadores de Apache Spark, un motor de procesamiento de datos en memoria, y se ha convertido en una herramienta popular para la ingeniería de datos, la ciencia de datos y el aprendizaje automático.
 
-
+![Inicio Databricks](img/imagen1.png)
 
 ## Paso 2. Creación de un notebook de trabajo
-**Repositorio:** [Insertar link aquí]
+**Repositorio:** [https://github.com/JuSeUlloa/BigDataMCienciaDatos/blob/main/actividad_reconocimiento/Actividad_reconocimiento.md]
+
+![Notebook de trabajo](img/imagen2.png)
 
 ## Paso 3. Carga del conjunto de datos
 1. Iniciar sesión en **Databricks** y acceder al espacio de trabajo.
@@ -18,12 +20,18 @@ Databricks es una plataforma de análisis de datos en la nube que proporciona un
 6. Después de cargar los datos, la tabla estará disponible en el catálogo de Databricks y podrás consultarla y analizarla utilizando SQL o PySpark en tus cuadernos de Databricks.
 7. Si quieres un espacio más personalizado para la carga puedes generar el catálogo, el esquema y por último sobre el esquema generas la tabla.
 
+![Carga de datos](img/imagen3.png)
+
 ## Paso 4. Exploración inicial de los datos
 Visualización de las primeras filas del dataset, su estructura general. Identificación de nombres de columnas, tipos de datos, posibles valores nulos y volumen aproximado de registros.
 La información de la tabla es estructurada con esquema y tipos de datos definidos.
 
+![Exploración de datos](img/imagen4.png)
+
 ## Paso 5. Almacenamiento en formato tabular
 Al convertir un dataset como una tabla **Delta**, se facilita la integración con herramientas de análisis y visualización de datos. Las tablas Delta pueden ser consultadas utilizando SQL, lo que permite a los analistas y científicos de datos trabajar con los datos de manera más intuitiva.
+
+![Almacenamiento en formato tabular](img/imagen5.png)
 
 ## Paso 6. Consulta básica de datos
 Ejecuta consultas básicas sobre la tabla creada. Como mínimo, debes realizar:
@@ -32,8 +40,16 @@ Ejecuta consultas básicas sobre la tabla creada. Como mínimo, debes realizar:
 * Una consulta con filtro.
 * Una consulta agregada simple (ej. promedio, suma o conteo por categoría).
 
+![Consulta básica de datos parte 1](img/imagen6.png)
+
+![Consulta básica de datos parte 2](img/imagen7.png)
+
+![Consulta básica de datos parte 3](img/imagen8.png)
+
 ## Paso 7. Visualización inicial
 Visualización de datos de la consulta.
+
+![Visualización inicial](img/imagen10.png)
 
 ## Paso 8. Análisis de la experiencia de uso
 Redacta una reflexión técnica breve sobre la experiencia desarrollada.
