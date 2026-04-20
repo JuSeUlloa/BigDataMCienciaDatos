@@ -12,5 +12,8 @@ En esta actividad se realiza una exploración inicial del entorno de Databricks,
 *   **Documentación:** [Actividad de Reconocimiento](./actividades/Actividad_reconocimiento.md)
 *   **Estado:** Completado ✅
 
+*   **Documentación:** [Actividad Almacenamiento de Datos Masivo](./actividades/Actividad_datos_masivos.md)
+*   **Estado:** Completado ✅
+
 ---
 *Materia: Métodos Supervisados / Big Data*
